@@ -1,4 +1,4 @@
-Abstarct
+**** Abstarct
 
 We explore the application of state of the art deep learning techniques for ordinal image classification on images of diabetic retinopathy. 
 In 2019, there was a large Kaggle competition featuring thousands of training images and large prizes for the competitors that produced the best results on a hidden test set. 
