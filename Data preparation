@@ -1,0 +1,3 @@
+The training data consists of 38,788 images of eyes from two separate Kaggle competitions.
+All images were transformed to 244x244 .jpg files and cropped in such a way so that the image of the eye takes up as much of the image as possible. 
+The preprocessing was done and the results were published as a public Kaggle dataset for anyone to use. 
